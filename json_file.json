@@ -1,0 +1,58 @@
+[{  
+      'Sku':'CH032KNG91',
+      'Category':{  
+         'Subcategories':[  
+            {  
+               'Subcategories':[  
+
+               ],
+               'CategoryId':'mem.flash',
+               'Description':'Tarjetas de Memoria Flash'
+            }
+         ],
+         'CategoryId':'mem',
+         'Description':'Memorias'
+      },
+      'Description':'Kingston - Tarjeta de memoria flash (adaptador microSDHC a  	SD Incluido) - 32 GB - Class 4 - microSDHC',
+      'Mpn':'SDC4/32GB',
+      'Brand':{  
+         'ManufacturerId':'kng',
+         'Description':'Kingston',
+         'BrandId':'kng'
+      },
+      'Upc':'0004061717501',
+      'Type':'Physical',
+      'Manufacturer':{  
+         'ManufacturerId':'kng',
+         'Description':'Kingston'
+      }
+   },
+   {  
+      'Sku':'CH032KNG91',
+      'Category':{  
+         'Subcategories':[  
+            {  
+               'Subcategories':[  
+
+               ],
+               'CategoryId':'mem.flash',
+               'Description':'Tarjetas de Memoria Flash'
+            }
+         ],
+         'CategoryId':'mem',
+         'Description':'Memorias'
+      },
+      'Description':'Kingston - Tarjeta de memoria flash (adaptador microSDHC a     SD Incluido) - 32 GB - Class 4 - microSDHC',
+      'Mpn':'SDC4/32GB',
+      'Brand':{  
+         'ManufacturerId':'kng',
+         'Description':'Kingston',
+         'BrandId':'kng'
+      },
+      'Upc':'0004061717501',
+      'Type':'Physical',
+      'Manufacturer':{  
+         'ManufacturerId':'kng',
+         'Description':'Kingston'
+      }
+   }]
